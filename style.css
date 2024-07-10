@@ -1,0 +1,455 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* hero background start here */
+.hero-bg{
+    width: 1440px;
+    height: 652px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    background-image: url('assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-h2-p-b{
+    align-items: center;
+    width: 998px;
+    height: 582px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 221px;
+}
+/* first image */
+.first-img{
+    margin-top: 35px;
+    left: 257px;
+    right: 257px;
+}
+/* h2 design */
+.in-the-near{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+/* paragraph */
+.paragraph{
+    color: rgb(13, 19, 33);
+    font-family: azeret Mono;
+    font-size: 25px;
+   
+    
+}
+/* btn-contact */
+.btn-contact{
+    color: white;
+    font-size: 20px;
+    padding: 20px 35px;
+    margin-top: 70px;
+    border-radius: 5px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+}
+
+/* four content design start here */
+
+.four-container{
+    width: 1140px;
+    height:1395px ;
+    margin: 0 auto;
+    /* border: 2px red solid; */
+    margin-top: 74px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+/* secound-h2-p */
+.secound-h2-p{
+    text-align: center;
+    border-radius: 16px;
+}
+.why-web{
+    font-family: Azeret Mono;
+    font-size: 40px;
+    margin-top: 80px;
+}
+.secound-p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    margin-top: 20px;
+}
+/* third number fig design  */
+.scnd-h1-p-btn{
+    width: 946px;
+    height: 336px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    margin-top: 48px;
+    display: flex;
+}
+.snd-h-p{
+    width: 477px;
+    height: 220px;
+    /* border: 2px red solid; */
+    margin: 48px;
+}
+.will-do{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    margin-top: 7px;
+}
+.great-programmer{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.btn-learn-more{
+    padding: 12px 20px;
+    margin-top: 30px;
+    color: rgba(11, 14, 14, 0.87);
+    font-family: Azeret Mono;
+    font-size: 20px;  
+}
+.laye-one-png{
+    margin: 48px;
+    margin-left: 99.77px;
+    width: 259px;
+    height: 217px;
+}
+ /* four number fig design  */
+ .laye-two-png{
+    margin-top: 48px;
+    width: 240px;
+    height: 240px;
+    margin-left: 0;
+}
+.will-help{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    margin-top: 7px;
+}
+.thrd-h-p{
+    width: 477px;
+    height: 220px;
+    /* border: 2px red solid; */
+    margin: 48px;
+    margin-right: 120px;
+}
+.btn-learn{
+    padding: 12px 20px;
+    margin-top: 40px;
+    color: rgba(11, 14, 14, 0.87);
+    font-family: Azeret Mono;
+    font-size: 20px; 
+}
+
+/* <!-- my inspretion box design stsrt here--> */ 
+.video-content{
+    width: 1140px;
+    height: 777px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    margin-top: 88px;
+}
+.v-content-title{
+    text-align: center;
+    
+}
+.my-inspi{
+    font-family: serif;
+    font-size: 30px;
+}
+.good-prg{
+    font-size: medium;
+    margin-top: 24px;
+}
+.video-container{
+    width: 1140px;
+    height: 614px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+
+
+}
+.yt-video{
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+    margin:32px;
+}
+/* my terget css design start here  */
+.my-current-next{
+    width: 1140px;
+    height: 1437px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    margin-top: 150px;
+    border-radius: 16px;
+}
+
+
+/* current-terget-container start here  */
+
+.current-terget-container{
+    width:946px;
+    height: 100px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(255, 255, 255);
+}
+.curnt-terget{
+    font-size: 30px;
+}
+.learn-java{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    margin-top: 24px;
+}
+/* html css and java section start here  */
+
+.h-c-j-container{
+    width: 1140px;
+    height:299px ;
+    margin-top: 48px;
+    /* border: 2px red solid; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.html-container{
+    width: 364px;
+    height: 299px;
+    /* border: 2px red solid; */
+    border-radius: 16px;
+
+/* background: rgba(255, 76, 30, 0.05); */
+}
+
+.html-content{
+    width: 284px;
+    height: 219px;
+    /* border: 2px red solid; */
+    margin: 40px auto;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.h-one{
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+.hyper-text{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+.css-content{
+    width: 284px;
+    height: 219px;
+    /* border: 2px red solid; */
+    margin: 40px auto;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.java-content{
+    width: 284px;
+    height: 219px;
+    /* border: 2px red solid; */
+    margin: 40px auto;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+
+
+/* my next terger desing here  */
+
+.target-txt-container{
+    width: 946px;
+    height: 113px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    margin-top: 111px;
+    margin-bottom: 15px;
+}
+.target-h-p{
+    text-align: center;
+}
+/* Reactjs Nodejs Mongobd css start here  */
+.r-j-m{
+    width: 1140px;
+    height: 219px;
+    /* border: 2px red solid; */
+    margin-top: 26px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+.img-h-p{
+    width: 1060px;
+    height: 139px;
+    margin: 40px;
+    /* border: 2px red solid; */
+    display: flex;
+}
+.r-j-s-png{
+    width: 94.78px;
+    height: 108px;
+    margin-top: 15.5px;
+    /* border: 2px red solid; */
+}
+.r-j-m-content{
+    margin-left: 24px;
+}
+.react-js{
+    margin-top: 10px;
+    width: 941.22px;
+    height: 52px;
+}
+/* node section  */
+.node-png{
+    width: 143.3px;
+    height: 87.75px;
+    margin: 25px 24px 0px;
+}
+/* mongo section  */
+.mongo{
+    width: 1140px;
+    height: 219px;
+    /* border: 2px red solid; */
+    margin-top: 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+
+
+
+/* footer part css start here  */
+.h-p-btn-container{
+    left: 150px;
+    right: 150px;
+    top: 4752px;
+    bottom: 179px;
+    width: 1140px;
+    height: 314px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    border-radius: 16px;
+    margin-top: 47px;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.432);
+    background-image:url("assets/handshake.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;  
+}
+.header-feedback-btn{
+    width: 1044px;
+    height: 186px;
+    /* border: 2px red solid; */
+    margin: 64px 48px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+}
+.need-support{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.down-here{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 18px;
+    margin-top: 16px;
+}
+.your-feedback{
+    width: 500px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+.feed-submit{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.submit-btn{
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    margin-left: 12px;
+}
+
+/* last section css  */
+.last-box{
+    width: 1440px;
+    height: 100px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    margin-top: 79px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.middle-box{
+    width: 1140px;
+    height: 36px;
+/* border: 2px red solid; */
+    margin: 32px 150px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.an-open{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-right: 300px;
+    margin-top: 32px;
+}
+.last-img{
+    display: flex;
+    width: 36px;
+    height: 36px;
+    gap: 10px;
+    margin-top: 32px;
+}
